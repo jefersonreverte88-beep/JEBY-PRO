@@ -1,0 +1,6 @@
+{
+  "name": "Jeby",
+  "description": "Aplicativo de finanças pessoais para rastrear receitas, despesas, dívidas e muito mais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
